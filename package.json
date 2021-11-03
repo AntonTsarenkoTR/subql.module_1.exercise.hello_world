@@ -1,7 +1,7 @@
 {
   "name": "module_1.exercise.hello_world",
   "version": "1.0.0",
-  "description": "TBD",
+  "description": "",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc -b",
